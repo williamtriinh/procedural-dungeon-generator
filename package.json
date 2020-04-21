@@ -1,0 +1,14 @@
+{
+  "name": "io.github.williamtriinh.dungeon-algorithm",
+  "version": "1.0.0",
+  "description": "Dungeon algorithm practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "William Trinh",
+  "license": "ISC",
+  "dependencies": {
+    "delaunator": "^4.0.1"
+  }
+}
