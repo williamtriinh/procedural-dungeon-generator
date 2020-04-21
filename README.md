@@ -8,3 +8,5 @@ Procedurally generates a dungeon using Delaunay triangulation. This method of pr
 Clone this repository and run `$npm install`.
 
 Whenever you're making changess, run `$ browserify <file> -o bundle.js` in the root directory.
+
+Credit to mapbox for their Delaunay triangulation library [link](https://github.com/mapbox/delaunator)
